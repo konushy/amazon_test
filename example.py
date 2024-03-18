@@ -5,5 +5,5 @@ def add(a, b):
     return a + b
 
 if __name__ == "__main__":
-    print(greet("Roman 2222222 +"))
+    print(greet("Roman+"))
     print(add(5, 3))
